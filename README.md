@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning python
+## 📫 How to reach me: https://www.linkedin.com/in/felipe-gabriel-4a10b5360/
+## ⚡ Fun fact: i love games
 <!--
 **felipe0762/felipe0762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
